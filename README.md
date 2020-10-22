@@ -29,7 +29,9 @@ What does it mean to be significant? Taken from Hillary Green-Lerman: The differ
 
 ## Question 1: Is there a statistically significant difference in discount between categories?
 
-Here's a view of the Category ID and Discount amount: ![Image](https://github.com/lambertmk/Using-Northwind-Database-to-Test-Statistical-Significance/blob/master/Question%201%20EDA.png)
+Here's a view of the Category ID and Discount amount:
+
+![Image](https://github.com/lambertmk/Using-Northwind-Database-to-Test-Statistical-Significance/blob/master/Question%201%20EDA.png)
 
 results
 
